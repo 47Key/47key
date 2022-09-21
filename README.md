@@ -61,6 +61,7 @@ I am looking to make an impact with the code I write, and the projects & career 
 ---
 
 <br />
+<br />
 
 ## 📚 Here are a few of the projects I am working on
 
