@@ -3,9 +3,9 @@
 <br />
 
 
-**'🛠️ I'm a fullstack software engineer, looking to make an impact with the code I write.'**
-**'🧠 I love to learn and I'm always curious'**
-**'💪 I am highly motivated & able to use critical thinking & problem solving skills to achieve my goals'**
+**🛠️ I'm a fullstack software engineer, looking to make an impact with the code I write.**
+**🧠 I love to learn and I'm always curious**
+**💪 I am highly motivated & able to use critical thinking & problem solving skills to achieve my goals**
 
 I am looking to make an impact with the code I write, and the projects & career I am working on. All of my projects are built from scratch, starting with the planning & design stage, leading into the coding, testing, and deployment stages. I try to incorporate my own touch in each of the projects I work on.
 
@@ -57,11 +57,9 @@ I am looking to make an impact with the code I write, and the projects & career 
 
 <br />
 <br />
+<br />
 
 ---
-
-<br />
-<br />
 
 ## 📚 Here are a few of the projects I am working on
 
