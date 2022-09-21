@@ -15,49 +15,47 @@
 #### Website: [Portfolio](https://www.ryleykeegan.dev)
 #### Email: [ryleykeegan47@gmail.com](mailto:ryleykeegan47@gmail.com)
 
-<br />
-
 ---
 
 <br />
 
 ### 🧰 Languages, Frameworks & Tools
 
-<img align="left" alt="React JS" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/>
+<img align="left" alt="React JS" width="30px" style="padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/>
 
-<img align="left" alt="Typescript" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/typescript.svg"/>
+<img align="left" alt="Typescript" width="30px" style="padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/typescript.svg"/>
 
-<img align="left" alt="Tailwind CSS" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/tailwindcss.svg"/>
+<img align="left" alt="Tailwind CSS" width="30px" style="padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/tailwindcss.svg"/>
 
-<img align="left" alt="Git" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/git.svg"/>
+<img align="left" alt="Git" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/git.svg"/>
 
-<img align="left" alt="Node JS" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nodejs.svg"/>
+<img align="left" alt="Node JS" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nodejs.svg"/>
 
-<img align="left" alt="Python" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/python.svg"/>
+<img align="left" alt="Python" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/python.svg"/>
 
-<img align="left" alt="Flask" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/flask.svg"/>
+<img align="left" alt="Flask" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/flask.svg"/>
 
-<img align="left" alt="PostgreSQL" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/postgres.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/postgres.svg"/>
 
-<img align="left" alt="Next JS" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/>
+<img align="left" alt="Next JS" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/>
 
-<img align="left" alt="Electron JS" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/electronjs.svg"/>
+<img align="left" alt="Electron JS" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/electronjs.svg"/>
 
-<img align="left" alt="Express JS" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/express.svg"/>
+<img align="left" alt="Express JS" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/express.svg"/>
 
-<img align="left" alt="Amazon Web Services" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/aws.svg"/>
+<img align="left" alt="Amazon Web Services" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/aws.svg"/>
 
-<img align="left" alt="Docker" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/docker.svg"/>
+<img align="left" alt="Docker" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/docker.svg"/>
 
-<img align="left" alt="Firebase" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/firebase.svg"/>
+<img align="left" alt="Firebase" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/firebase.svg"/>
 
-<img align="left" alt="Javascript" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/js.svg"/>
+<img align="left" alt="Javascript" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/js.svg"/>
 
-<img align="left" alt="CSS" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/css.svg"/>
+<img align="left" alt="CSS" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/css.svg"/>
 
-<img align="left" alt="HTML" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/html.svg"/>
+<img align="left" alt="HTML" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/html.svg"/>
 
-<img align="left" alt="Twilio" width="30px" style="padding:10px; padding-top:5px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/twilio.svg"/>
+<img align="left" alt="Twilio" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/twilio.svg"/>
 
 <br />
 <br />
