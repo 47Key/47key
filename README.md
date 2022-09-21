@@ -1,8 +1,10 @@
 ## 💻 Ryley Keegan's Github Profile
 
-   #### 🛠️ I'm a fullstack software engineer, looking to make an impact with the code I write.
-   #### 🧠 I love to learn and I'm always curious
-   #### 💪 I am highly motivated & able to use critical thinking & problem solving skills to achieve my goals
+<br />
+
+#### 🛠️ I'm a fullstack software engineer, looking to make an impact with the code I write.
+#### 🧠 I love to learn and I'm always curious
+#### 💪 I am highly motivated & able to use critical thinking & problem solving skills to achieve my goals
 
 ### [Portfolio Website](https://www.ryleykeegan.dev)
 
@@ -15,7 +17,7 @@
 ## 📚 Here are a few of the projects I am working on
 
 
-### 🤖 Stable Diffusion Image Generator
+### Stable Diffusion Image Generator 🤖 
 <img alt="Stable Diffusion AI Image Generator" width="1000px" height="400px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/stable-diffusion/stable-diffusion1.png" />
 
 * [Live Website](https://www.keyai.ca)
@@ -27,7 +29,7 @@
 
 ---
 
-### 📘 Portfolio Website
+### Portfolio Website 📘 
 <img alt ="Ryley Keegan's Portfolio Website" height="400px" width="1000px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/portfolio/portfolio.png"/>
 
 * [Live Website](https://www.ryleykeegan.dev)
@@ -40,7 +42,7 @@
 ---
 
 
-### 🏠 Real Estate Application
+### Real Estate Application 🏠 
 <img alt="Real Estate Application" width="1000px" height="400px" src="https://github.com/47Key/portfolio_photos/blob/master/team-forcier/team-forcier1.png" />
 
 * [Live Website](https://team-forcier.vercel.app/)
