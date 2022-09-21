@@ -57,6 +57,11 @@
 
 <img align="left" alt="Twilio" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/twilio.svg"/>
 
+<img align="left" alt="Figma" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/figma.svg"/>
+
+<img align="left" alt="Photoshop" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/photoshop.svg"/>
+
+
 <br />
 <br />
 <br />
