@@ -12,6 +12,8 @@
 
 ### 📚 Here are a few of the projects I am working on
 
+---
+
 ### 🤖 Stable Diffusion Image Generator
 <img alt="Stable Diffusion AI Image Generator" width="1000px" height="400px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/stable-diffusion/stable-diffusion1.png" />
 
