@@ -11,12 +11,6 @@
 
 ---
 
-### 📭 How to Reach Me
-#### Website: [Portfolio](https://www.ryleykeegan.dev)
-#### Email: [ryleykeegan47@gmail.com](mailto:ryleykeegan47@gmail.com)
-
----
-
 <br />
 
 ### 🧰 Languages, Frameworks & Tools
@@ -105,3 +99,10 @@
 * [Backend Repo - Query & Database storage](https://github.com/47Key/fetch_post_ddf)
 * Built with React, Next.js, Firebase, Express.js & Node.js
 <img alt="React JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/> <img alt="Next JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/> <img alt="Express JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/express.svg"/> <img alt="Node JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nodejs.svg"/> <img alt="Firebase JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/firebase.svg"/>
+
+---
+
+### 📭 How to Reach Me
+#### Website: [Portfolio](https://www.ryleykeegan.dev)
+#### Email: [ryleykeegan47@gmail.com](mailto:ryleykeegan47@gmail.com)
+
