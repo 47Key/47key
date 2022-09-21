@@ -2,7 +2,7 @@
 
 ### `` 🛠️ I'm a fullstack engineer, looking to make an impact with the code I write``
 ### `` 🧠 I love to learn and I'm always curious``
-### `` 💪 I am highly motivated & able to use critical thinking & problem solving skills to achieve my goals``
+### `` 💪 I'm highly motivated & capable of using critical thinking skills to achieve my goals``
 
 ---
 
