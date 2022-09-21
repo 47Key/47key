@@ -2,11 +2,10 @@
 
 <br />
 
-**`
-#### 🛠️ I'm a fullstack software engineer, looking to make an impact with the code I write.
-#### 🧠 I love to learn and I'm always curious
-#### 💪 I am highly motivated & able to use critical thinking & problem solving skills to achieve my goals
-`**
+
+**'🛠️ I'm a fullstack software engineer, looking to make an impact with the code I write.'**
+**'🧠 I love to learn and I'm always curious'**
+**'💪 I am highly motivated & able to use critical thinking & problem solving skills to achieve my goals'**
 
 I am looking to make an impact with the code I write, and the projects & career I am working on. All of my projects are built from scratch, starting with the planning & design stage, leading into the coding, testing, and deployment stages. I try to incorporate my own touch in each of the projects I work on.
 
@@ -57,13 +56,13 @@ I am looking to make an impact with the code I write, and the projects & career 
 <img align="left" alt="Twilio" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/twilio.svg"/>
 
 <br />
+<br />
 
 ---
 
 <br />
 
 ## 📚 Here are a few of the projects I am working on
-
 
 ### Stable Diffusion Image Generator 🤖 
 <img alt="Stable Diffusion AI Image Generator" width="1000px" height="400px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/stable-diffusion/stable-diffusion1.png" />
