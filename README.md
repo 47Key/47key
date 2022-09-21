@@ -1,11 +1,25 @@
-# 💻 Ryley Keegan's Github Profile
+## 💻 Ryley Keegan's Github Profile
 
 #### 🛠️ I'm a fullstack software engineer, looking to make an impact with the code I write.
-#### [Portfolio](https://www.ryleykeegan.dev)
+#### 🧠 I love to learn and I'm always curious
+#### 💪 I am highly motivated & able to use critical thinking & problem solving skills to achieve my goals
+### [Portfolio Website](https://www.ryleykeegan.dev)
 
 ---
 
 ## 📚 Here are a few of the projects I am working on
+
+### 🤖 Stable Diffusion Image Generator
+<img alt="Stable Diffusion AI Image Generator" width="1000px" height="400px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/stable-diffusion/stable-diffusion1.png" />
+
+* [Live Website](https://www.keyai.ca)
+* Built with Typescript, React, Tailwind & Nextjs
+<img alt="Typescript" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/typescript.svg"/> <img alt="React JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/masterlanguage-icons/reactjs.svg"/> <img alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/tailwindcss.svg"/> <img alt="Next JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/>
+
+* [Frontend Repo](https://github.com/47KeyAI_Image_Generator)
+* [Backend Repo](https://github.com/47Key/stable-diffusion_api-docker)
+
+---
 
 ### 📘 Portfolio Website
 <img alt ="Ryley Keegan's Portfolio Website" height="400px" width="1000px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/portfolio/portfolio.png"/>
@@ -16,16 +30,6 @@
 
 * [Portfolio Code](https://github.com/47Key/Portfolio_Website)
 
----
-
-### 🤖 Stable Diffusion Image Generator
-<img alt="Stable Diffusion AI Image Generator" width="1000px" height="400px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/stable-diffusion/stable-diffusion1.png" />
-
-* [Live Website](https://www.keyai.ca)
-* Built with Typescript, React, Tailwind & Nextjs
-<img alt="Typescript" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/typescript.svg"/> <img alt="React JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/masterlanguage-icons/reactjs.svg"/> <img alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/tailwindcss.svg"/> <img alt="Next JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/>
-* [Frontend](https://github.com/47KeyAI_Image_Generator)
-* [Backend](https://github.com/47Key/stable-diffusion_api-docker)
 
 ---
    
@@ -35,7 +39,7 @@
 
 * [Live Website](https://team-forcier.vercel.app/)
 * Built with React, Next.js, Firebase, Express.js & Node.js
-<img alt="React JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/> <img alt="Next JS" width="30px" style="padding-right:10px;" src="https://github.com/47Keyportfolio_photos/blob/masterlanguage-icons/nextjs.svg"/> <img alt="Express JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/expressjs.svg"/> <img alt="Node JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nodejs.svg"/> <img alt="Firebase JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/firebase.svg"/>
+<img alt="React JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/> <img alt="Next JS" width="30px" style="padding-right:10px;" src="https://github.com/47Keyportfolio_photos/blob/masterlanguage-icons/nextjs.svg"/> <img alt="Express JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/express.svg"/> <img alt="Node JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nodejs.svg"/> <img alt="Firebase JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/firebase.svg"/>
 
 * [Frontend Repo](https://github.com/47Keyteam_forcier)
 * [Backend Repo - DDF Client](https://githubcom/47Key/ddf_client_cloudfunctiontree/master/functions)
