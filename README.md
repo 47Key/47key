@@ -1,21 +1,19 @@
-## 💻 Ryley Keegan's Github Profile
+## 💻 Ryley Keegan
 
-<br />
-
-### 🛠️ I'm a fullstack engineer, looking to make an impact with the code I write
-### 🧠 I love to learn and I'm always curious
-### 💪 I am highly motivated & able to use critical thinking & problem solving skills to achieve my goals
+#### 🛠️ I'm a fullstack engineer, looking to make an impact with the code I write
+#### 🧠 I love to learn and I'm always curious
+#### 💪 I am highly motivated & able to use critical thinking & problem solving skills to achieve my goals
 
 <br />
 
 ### 😃 About Me
-I'm looking to make an impact with the code I write, the projects I'm involved with & the career I'm working in. All of my projects are built from scratch, starting with the planning & design stage, leading to the coding, testing, and deployment stages. I try to incorporate my own touch in each of the projects I work on.
+**I'm looking to make an impact with the code I write, the projects I'm involved with & the career I'm working in. All of my projects are built from scratch, starting with the planning & design stage, leading to the coding, testing, and deployment stages. I try to incorporate my own touch in each of the projects I work on.**
 
 <br />
 
 ### 📭 How to Reach Me
-### Website: [My Portfolio](https://www.ryleykeegan.dev)
-### Email: [ryleykeegan47@gmail.com](mailto:ryleykeegan47@gmail.com)
+#### Website: [Portfolio](https://www.ryleykeegan.dev)
+#### Email: [ryleykeegan47@gmail.com](mailto:ryleykeegan47@gmail.com)
 
 <br />
 
@@ -70,7 +68,7 @@ I'm looking to make an impact with the code I write, the projects I'm involved w
 
 ### 📚 Projects I'm Working On
 
-### Stable Diffusion Image Generator 🤖 
+#### Stable Diffusion Image Generator 🤖 
 <img alt="Stable Diffusion AI Image Generator" width="1000px" height="400px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/stable-diffusion/stable-diffusion1.png" />
 
 * [Live Website](https://www.keyai.ca)
@@ -82,7 +80,7 @@ I'm looking to make an impact with the code I write, the projects I'm involved w
 
 ---
 
-### Portfolio Website 📘 
+#### Portfolio Website 📘 
 <img alt ="Ryley Keegan's Portfolio Website" height="400px" width="1000px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/portfolio/portfolio.png"/>
 
 * [Live Website](https://www.ryleykeegan.dev)
@@ -95,7 +93,7 @@ I'm looking to make an impact with the code I write, the projects I'm involved w
 ---
 
 
-### Real Estate Application 🏠 
+#### Real Estate Application 🏠 
 <img alt="Real Estate Application" width="1000px" height="400px" src="https://github.com/47Key/portfolio_photos/blob/master/team-forcier/team-forcier1.png" />
 
 * [Live Website](https://team-forcier.vercel.app/)
