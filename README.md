@@ -6,13 +6,14 @@
 
 ### [Portfolio Website](https://www.ryleykeegan.dev)
 
+<br />
 
 ---
 
+<br />
 
-### 📚 Here are a few of the projects I am working on
+## 📚 Here are a few of the projects I am working on
 
----
 
 ### 🤖 Stable Diffusion Image Generator
 <img alt="Stable Diffusion AI Image Generator" width="1000px" height="400px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/stable-diffusion/stable-diffusion1.png" />
@@ -37,7 +38,8 @@
 
 
 ---
-   
+
+
 ### 🏠 Real Estate Application
 <img alt="Real Estate Application" width="1000px" height="400px" src="https://github.com/47Key/portfolio_photos/blob/master/team-forcier/team-forcier1.png" />
 
@@ -49,9 +51,11 @@
 * [Backend Repo - DDF Client](https://githubcom/47Key/ddf_client_cloudfunctiontree/master/functions)
 * [Backend Repo - Query & Database storage](https://github.com/47Key/fetch_post_ddf)
 
+<br />
 
 ---
 
+<br />
 
 ### 🧰 Languages, Frameworks & Tools
 
