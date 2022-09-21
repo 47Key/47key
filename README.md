@@ -1,19 +1,17 @@
 ## 💻 Ryley Keegan's GitHub
 
-### `` 🛠️ I'm a fullstack engineer, looking to make an impact with the code I write``
-### `` 🧠 I love to learn and I'm always curious``
-### `` 💪 I'm highly motivated & capable of using critical thinking skills to achieve my goals``
+#### 🛠️ I'm a fullstack engineer, looking to make an impact with the code I write
+#### 💪 I'm highly motivated & capable of using critical thinking to achieve my goals
+#### 🧠 I love to learn and I'm always curious
 
 ---
 
-### 😃 About Me
+### ``😃 About Me``
 **I'm looking to make an impact with the code I write, the projects I'm involved with & the career I'm working in. All of my projects are built from scratch, starting with the planning & design stage, leading to the coding, testing, and deployment stages. I try to incorporate my own touch in each of the projects I work on.**
 
 ---
 
-<br />
-
-### 🧰 Languages, Frameworks & Tools
+### ``🧰 Languages, Frameworks & Tools``
 
 <img align="left" alt="React JS" width="30px" style="padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/>
 
@@ -63,9 +61,9 @@
 
 ---
 
-### 📚 Projects I'm Working On
+### ``📚 Projects I'm Working On``
 
-#### Stable Diffusion Image Generator 🤖 
+#### ``Stable Diffusion Image Generator 🤖``
 <img alt="Stable Diffusion AI Image Generator" width="1000px" height="400px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/stable-diffusion/stable-diffusion1.png" />
 
 * [Live Website](https://www.keyai.ca)
@@ -77,7 +75,7 @@
 
 ---
 
-#### Portfolio Website 📘 
+#### ``Portfolio Website 📘``
 <img alt ="Ryley Keegan's Portfolio Website" height="400px" width="1000px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/portfolio/portfolio.png"/>
 
 * [Live Website](https://www.ryleykeegan.dev)
@@ -90,7 +88,7 @@
 ---
 
 
-#### Real Estate Application 🏠 
+#### ``Real Estate Application 🏠``
 <img alt="Real Estate Application" width="1000px" height="400px" src="https://github.com/47Key/portfolio_photos/blob/master/team-forcier/team-forcier1.png" />
 
 * [Live Website](https://team-forcier.vercel.app/)
@@ -102,7 +100,7 @@
 
 ---
 
-### 📭 How to Reach Me
+### ``📭 How to Reach Me``
 #### Website: [Portfolio](https://www.ryleykeegan.dev)
 #### Email: [ryleykeegan47@gmail.com](mailto:ryleykeegan47@gmail.com)
 
