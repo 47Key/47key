@@ -106,3 +106,6 @@
 #### Website: [Portfolio](https://www.ryleykeegan.dev)
 #### Email: [ryleykeegan47@gmail.com](mailto:ryleykeegan47@gmail.com)
 
+---
+
+[![Ryley's GitHub stats](https://github-readme-stats.vercel.app/api?username=47key)]
