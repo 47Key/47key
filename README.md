@@ -73,32 +73,6 @@
 <img alt="Typescript" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/typescript.svg"/> <img alt="React JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/> <img alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/tailwindcss.svg"/> <img alt="Next JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/>
 
 
----
-
-#### ``Portfolio Website 📘``
-<img alt ="Ryley Keegan's Portfolio Website" height="400px" width="1000px" src="https://raw.githubusercontent.com/47Key/portfolio_photos/master/portfolio/portfolio.png"/>
-
-* [Live Website](https://www.ryleykeegan.dev)
-* [Portfolio Code](https://github.com/47Key/Portfolio_Website)
-* Built with React, Tailwind, Nextjs & Twilio
-<img alt="React JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/> <img alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/tailwindcss.svg"/> <img alt="Next JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/> <img alt="Typescript" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/twilio.svg"/>
-
-
-
----
-
-
-#### ``Real Estate Application 🏠``
-<img alt="Real Estate Application" width="1000px" height="400px" src="https://github.com/47Key/portfolio_photos/blob/master/team-forcier/team-forcier1.png" />
-
-* [Live Website](https://team-forcier.vercel.app/)
-* [Frontend Repo](https://github.com/47Keyteam_forcier)
-* [Backend Repo - DDF Client](https://githubcom/47Key/ddf_client_cloudfunctiontree/master/functions)
-* [Backend Repo - Query & Database storage](https://github.com/47Key/fetch_post_ddf)
-* Built with React, Next.js, Firebase, Express.js & Node.js
-<img alt="React JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/> <img alt="Next JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/> <img alt="Express JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/express.svg"/> <img alt="Node JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nodejs.svg"/> <img alt="Firebase JS" width="30px" style="padding-right:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/firebase.svg"/>
-
----
 
 ### ``📭 How to Reach Me``
 #### Website: [Portfolio](https://www.ryleykeegan.dev)
