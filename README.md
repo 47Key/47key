@@ -58,12 +58,8 @@ Port Knocker in Python with multiple features
 Image to Image generation using pictures of your pets, preparing for full integration with self-hosted model or API
 * [Repo](https://github.com/47Key/PetPixel)
 * Built with React, Typescript, Next.js
-<span>
-  <img align="left" alt="React" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/>
-  <img align="left" alt="Typescript" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/typescript.svg"/>
-  <img align="left" alt="Next JS" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/>
-  <img align="left" alt="Docker" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/docker.svg"/>
-</span>
+<img align="left" alt="React" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/><img align="left" alt="Typescript" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/typescript.svg"/><img align="left" alt="Next JS" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/><img align="left" alt="Docker" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/docker.svg"/>
+<br />
 
 ---
 
