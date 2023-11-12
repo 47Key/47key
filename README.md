@@ -45,19 +45,21 @@ LLM Model detection based on written essays
 * [Repo](https://github.com/47Key/detect-llm)
 * Built with Python, Tensorflow, PyTorch & Keras
 <img align="left" alt="Python" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/python.svg"/>
+<br />
 
 #### ``Port Knocker ✊``
 Port Knocker in Python with multiple features
 * [Repo](https://github.com/47Key/portknock)
 * Built with Python
 <img align="left" alt="Python" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/python.svg"/>
+<br />
 
 #### ``Pet Pixel 🐕``
 Image to Image generation using pictures of your pets, preparing for full integration with self-hosted model or API
 * [Repo](https://github.com/47Key/PetPixel)
 * Built with React, Typescript, Next.js
 <img align="left" alt="React" width="30px" style="padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/><img align="left" alt="Typescript" width="30px" style="padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/typescript.svg"/><img align="left" alt="Next JS" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/><img align="left" alt="Docker" width="30px" style="margin-top:3px;padding:10px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/docker.svg"/>
-
+<br />
 ---
 
 ### ``📭 How to Reach Me``
