@@ -61,9 +61,3 @@ Image to Image generation using pictures of your pets, preparing for full integr
 
 <img align="left" alt="React" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/reactjs.svg"/><img align="left" alt="Typescript" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/typescript.svg"/><img align="left" alt="Next JS" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/nextjs.svg"/><img align="left" alt="Docker" width="15px" style="margin-left:10px;padding-top:3px;" src="https://github.com/47Key/portfolio_photos/blob/master/language-icons/docker.svg"/>
 <br />
-
----
-
-### ``📭 How to Reach Me``
-#### Website: [Portfolio](https://www.ryleykeegan.dev)
-#### Email: [ryleykeegan47@gmail.com](mailto:ryleykeegan47@gmail.com)
